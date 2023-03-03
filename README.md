@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheerajjha451&label=Profile%20views&color=0e75b6&style=flat" alt="dheerajjha451" /> </p>
 
-- 💬 Ask me about **Web devlopment technologies and DSA**
 
 - 📫 How to reach me **dheerajjha451@gmail.com**
 
